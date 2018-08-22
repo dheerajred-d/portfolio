@@ -1,0 +1,35 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "my web workflow with npm sass and gulp and more...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Dheeajreddy@bitbucket.org/Dheeajreddy/workflow.git"
+  },
+  "keywords": [
+    "sass",
+    "npm",
+    "git",
+    "gulp"
+  ],
+  "author": "dheeraj reddy",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Dheeajreddy/workflow#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-inject-partials": "^1.0.4",
+    "gulp-newer": "^1.4.0"
+  }
+}
